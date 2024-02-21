@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="text">#FF000000</color>
+    <color name="background">#DAE2B6</color>
+    <color name="divBack">#F7EDDB</color>
+    <color name="spine">#FFFFFFFF</color>
+    <color name="baten">#15542C</color>
+    <color name="bw">#9E9E9E</color>
+
+</resources>

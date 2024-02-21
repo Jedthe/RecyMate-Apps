@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center_horizontal"
+    android:background="@color/background"
+    tools:context=".Detect">
+
+/*
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="450dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:background="@drawable/helpimg">
+
+    </FrameLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:orientation="horizontal">
+
+            <ImageButton
+                android:id="@+id/imageButton"
+                android:layout_width="63dp"
+                android:layout_height="54dp"
+                android:src="@drawable/x" />
+
+            <TextView
+                android:layout_width="100dp"
+                android:layout_height="54dp"
+                android:layout_marginLeft="70dp"
+                android:gravity="center"
+                android:src="@drawable/question"
+                android:text="HELP"
+                android:textSize="12pt"
+                android:textStyle="bold" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:gravity="bottom">
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="230dp"
+                android:layout_gravity="bottom"
+                app:cardBackgroundColor="@color/divBack">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="center"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="320dp"
+                        android:layout_marginTop="30dp"
+                        android:layout_marginBottom="5dp"
+                        android:textSize="8pt"
+                        android:layout_height="wrap_content"
+                        android:text="Step 1. Put unwanted items away from camera" />
+
+                    <TextView
+                        android:layout_width="320dp"
+                        android:layout_margin="5dp"
+                        android:textSize="8pt"
+                        android:layout_height="wrap_content"
+                        android:text="Step 2. Make sure the Item you want to scan is in the center of the frame" />
+                    <TextView
+                        android:layout_width="320dp"
+                        android:layout_margin="5dp"
+                        android:textSize="8pt"
+                        android:layout_height="wrap_content"
+                        android:text="Step 3. Make sure the photo you took is clear" />
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+    */
+</androidx.constraintlayout.widget.ConstraintLayout>

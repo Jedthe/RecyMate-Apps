@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="text">#FFFFFFFF</color>
+    <color name="background">#2D152A</color>
+    <color name="divBack">#313131</color>
+    <color name="spine">#FF000000</color>
+    <color name="baten">#A8CD59</color>
+    <color name="bw">#171918</color>
+
+</resources>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Detect"
+    android:background="@drawable/plastic"
+    android:orientation="vertical"
+    android:layout_gravity="center_horizontal"
+    >
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_margin="20dp">
+
+        <ImageButton
+            android:id="@+id/imageButton"
+            android:layout_width="63dp"
+            android:layout_height="54dp"
+            android:src="@drawable/x" />
+
+        <ImageButton
+            android:id="@+id/imageButton2"
+            android:layout_marginLeft="226dp"
+            android:layout_width="63dp"
+            android:layout_height="54dp"
+            android:src="@drawable/question"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_gravity="center"
+        android:gravity="center_vertical"
+        android:layout_marginTop="150dp"
+        android:background="@drawable/box"
+        android:orientation="vertical"
+        android:id="@+id/layout2">
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_marginTop="120dp"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_margin="4dp"
+            android:gravity="center"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:text="Point your camera at recycling objects and take a photo"
+            android:textAlignment="center"
+            android:textColor="@color/white"
+            android:textSize="9pt" />
+    </LinearLayout>
+
+
+    <ImageButton
+        android:id="@+id/imageButton3"
+        android:layout_width="96dp"
+        android:layout_height="97dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="70dp"
+        android:background="@drawable/baseline_radio_button_checked_24" />
+
+</LinearLayout>

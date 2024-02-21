@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RecyMate</string>
+
+    <string-array name="Language">
+        <item>English</item>
+        <item>Bahasa Indonesia</item>
+    </string-array>
+</resources>
